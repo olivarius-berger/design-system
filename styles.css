@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 40px;
+}
+
+.section {
+    border: 1px solid #f6f6f6;
+    padding: 20px 0 0 20px;
+    max-width: 691px;
+    margin-bottom: 20px;
+}
+
+.colorbox {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: #f4f4f4;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.blue {
+    
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+    margin-top: 25px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
